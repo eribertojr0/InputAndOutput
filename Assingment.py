@@ -13,7 +13,7 @@ def main():
 
     height = float(input("What is your height ? "))
 
-    days = int(input("how many days have you gone running? "))
+    days = float(input("how many days have you gone running? "))
 
     weight_lost = 0.5 * days
 
